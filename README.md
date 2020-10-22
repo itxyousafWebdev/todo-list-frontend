@@ -2,8 +2,8 @@
 <h3> Preview </h3> https://create-todo-list-yousafkayani.herokuapp.com/
 
 <h4> Screens </h4>
-<h6> screen 1 </h6> <img src="todo-1.PNG">
-<h6> screen 2 </h6> <img src="todo-2.PNG">
+<h6> screen 1 </h6> <a href="https://create-todo-list-yousafkayani.herokuapp.com/"> <img src="todo-1.PNG"> </a>
+<h6> screen 2 </h6> <a href="https://create-todo-list-yousafkayani.herokuapp.com/add"> <img src="todo-2.PNG"> </a>
 
 <h6> screen 3 </h6> <img src="todo-3.PNG">
 
