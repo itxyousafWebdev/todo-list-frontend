@@ -1,3 +1,15 @@
+<h2> Todo_list Web-app Using MERN Stack </h2>
+<h3> Preview </h3> https://create-todo-list-yousafkayani.herokuapp.com/
+
+<h4> Screens </h4>
+<h6> screen 1 </h6> <img src="todo-1.PNG">
+<h6> screen 2 </h6> <img src="todo-2.PNG">
+
+<h6> screen 3 </h6> <img src="todo-3.PNG">
+
+      
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
